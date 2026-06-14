@@ -63,17 +63,7 @@ adity = {
 | Programming in Java | NPTEL | 🥈 Silver Elite |
 | SQL Associate | DataCamp | ✅ |
 | Machine Learning Specialisation | deeplearning.ai | ✅ |
-| ML in Production | deeplearning.ai | ✅ |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adity-shambhvi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adity-shambhvi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
+| ML in Production | deeplearning.ai|
 ---
 
 <p align="center">
